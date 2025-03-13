@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\fileservis\\fileservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|solutionrelative:fileservis\\fileservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb4\\353505_\u0445\u043E\u0440\u043E\u0448\u043A\u043E_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\comparer\\mycustomcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|solutionrelative:comparer\\mycustomcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\interface\\ifileservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|solutionrelative:interface\\ifileservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\entity\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD53427-B1AA-453C-8695-9E4A3449434E}|353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4.csproj|solutionrelative:entity\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomComparer.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Comparer\\MyCustomComparer.cs",
+              "RelativeDocumentMoniker": "Comparer\\MyCustomComparer.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Comparer\\MyCustomComparer.cs",
+              "RelativeToolTip": "Comparer\\MyCustomComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:57:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileServis.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Interface\\IFileServis.cs",
+              "RelativeDocumentMoniker": "Interface\\IFileServis.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Interface\\IFileServis.cs",
+              "RelativeToolTip": "Interface\\IFileServis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:37:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileServis.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\FileServis\\FileServis.cs",
+              "RelativeDocumentMoniker": "FileServis\\FileServis.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\FileServis\\FileServis.cs",
+              "RelativeToolTip": "FileServis\\FileServis.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:36:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Entity\\Listener.cs",
+              "RelativeDocumentMoniker": "Entity\\Listener.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Entity\\Listener.cs",
+              "RelativeToolTip": "Entity\\Listener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:30:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb4\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab4\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:29:08.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

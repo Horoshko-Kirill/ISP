@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|e:\\lb_c#\\\u043B\u04318\\consoleapp1\\tarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:tarif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AD64749-B7FE-438D-AD6B-205F9760DCAB}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 549,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T22:07:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-21T22:06:38.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:31:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Airport.cs",
+              "RelativeDocumentMoniker": "Airport.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Airport.cs",
+              "RelativeToolTip": "Airport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:10:53.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarif.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Tarif.cs",
+              "RelativeDocumentMoniker": "Tarif.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Tarif.cs",
+              "RelativeToolTip": "Tarif.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:09:48.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoDiscount.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\NoDiscount.cs",
+              "RelativeDocumentMoniker": "NoDiscount.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\NoDiscount.cs",
+              "RelativeToolTip": "NoDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:09:16.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Discount.cs",
+              "RelativeDocumentMoniker": "Discount.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Discount.cs",
+              "RelativeToolTip": "Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:09:04.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Interface1.cs",
+              "RelativeDocumentMoniker": "Interface1.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04318\\ConsoleApp1\\Interface1.cs",
+              "RelativeToolTip": "Interface1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:54:28.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

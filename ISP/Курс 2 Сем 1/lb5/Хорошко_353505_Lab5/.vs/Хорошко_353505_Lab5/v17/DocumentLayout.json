@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6442580-0479-4158-99CB-F70C6521C93C}|..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb5\\\u0445\u043E\u0440\u043E\u0448\u043A\u043E_353505_lab5.domain\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6442580-0479-4158-99CB-F70C6521C93C}|..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb5\\\u0445\u043E\u0440\u043E\u0448\u043A\u043E_353505_lab5.domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6442580-0479-4158-99CB-F70C6521C93C}|..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb5\\\u0445\u043E\u0440\u043E\u0448\u043A\u043E_353505_lab5.domain\\iserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6442580-0479-4158-99CB-F70C6521C93C}|..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb5\\\u0445\u043E\u0440\u043E\u0448\u043A\u043E_353505_lab5.domain\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE1C41-916B-4326-97BF-3A36D8401F28}|\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb5\\\u0445\u043E\u0440\u043E\u0448\u043A\u043E_353505_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE1C41-916B-4326-97BF-3A36D8401F28}|\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4379FBA-6EB8-45F7-BE61-75608CA6804C}|..\\SerializerLib\\SerializerLib.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb5\\serializerlib\\serialze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE1C41-916B-4326-97BF-3A36D8401F28}|\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93DE1C41-916B-4326-97BF-3A36D8401F28}|\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Patient.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Patient.cs",
+              "RelativeToolTip": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:28:21.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Diagnosis.cs",
+              "RelativeToolTip": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\Diagnosis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:17:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAYwFMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:05:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ConfigHelper.cs",
+              "RelativeDocumentMoniker": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ConfigHelper.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ConfigHelper.cs",
+              "RelativeToolTip": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ConfigHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:00:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISerializer.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ISerializer.cs",
+              "RelativeDocumentMoniker": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ISerializer.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ISerializer.cs",
+              "RelativeToolTip": "..\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5.Domain\\ISerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:38:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Serialze.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\SerializerLib\\Serialze.cs",
+              "RelativeDocumentMoniker": "..\\SerializerLib\\Serialze.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\SerializerLib\\Serialze.cs",
+              "RelativeToolTip": "..\\SerializerLib\\Serialze.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:41:14.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb5\\\u0425\u043E\u0440\u043E\u0448\u043A\u043E_353505_Lab5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T19:45:00.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

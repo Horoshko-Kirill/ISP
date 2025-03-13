@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Хорошко_353505_Lab6", "Хорошко_353505_Lab6.csproj", "{076246C1-6712-42DA-84D2-F703F276A229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileServise", "..\FileServise\FileServise.csproj", "{901AC25B-4D51-4907-BA03-5529D421DF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076246C1-6712-42DA-84D2-F703F276A229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076246C1-6712-42DA-84D2-F703F276A229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076246C1-6712-42DA-84D2-F703F276A229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076246C1-6712-42DA-84D2-F703F276A229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901AC25B-4D51-4907-BA03-5529D421DF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901AC25B-4D51-4907-BA03-5529D421DF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901AC25B-4D51-4907-BA03-5529D421DF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901AC25B-4D51-4907-BA03-5529D421DF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D88B90-D690-41E9-8AAE-2658F441F217}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lb_c#\\\u041B\u04319\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A5679-A708-4882-B133-B400E0E03730}|ConsoleApp1.csproj|e:\\lb_c#\\\u043B\u04319\\consoleapp1\\classdiagram\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7C1A5679-A708-4882-B133-B400E0E03730}|ConsoleApp1.csproj|solutionrelative:classdiagram\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A5679-A708-4882-B133-B400E0E03730}|ConsoleApp1.csproj|E:\\Lb_c#\\\u041B\u04319\\ConsoleApp1\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A5679-A708-4882-B133-B400E0E03730}|ConsoleApp1.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 549,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04319\\ConsoleApp1\\ClassDiagram\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram\\ClassDiagram1.cd",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04319\\ConsoleApp1\\ClassDiagram\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-22T11:18:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lb_c#\\\u041B\u04319\\ConsoleApp1\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "E:\\Lb_c#\\\u041B\u04319\\ConsoleApp1\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:18:18.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

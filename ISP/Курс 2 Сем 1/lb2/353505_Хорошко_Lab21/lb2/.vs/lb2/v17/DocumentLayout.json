@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|c:\\users\\kiril\\desktop\\lb_c#\\\u043A\u0443\u0440\u0441 2\\lb2\\353505_\u0445\u043E\u0440\u043E\u0448\u043A\u043E_lab21\\lb2\\entities\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:entities\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\contracts\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:contracts\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\entities\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:entities\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\entities\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223AE7E1-7C38-421E-8C0A-2BBE748DA88D}|lb2.csproj|solutionrelative:entities\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Deposit.cs",
+              "RelativeDocumentMoniker": "Entities\\Deposit.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Deposit.cs",
+              "RelativeToolTip": "Entities\\Deposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:19:18.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Contracts\\IBank.cs",
+              "RelativeDocumentMoniker": "Contracts\\IBank.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Contracts\\IBank.cs",
+              "RelativeToolTip": "Contracts\\IBank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:20:56.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:19:20.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Journal.cs",
+              "RelativeDocumentMoniker": "Entities\\Journal.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Journal.cs",
+              "RelativeToolTip": "Entities\\Journal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:19:17.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Bank.cs",
+              "RelativeDocumentMoniker": "Entities\\Bank.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Bank.cs",
+              "RelativeToolTip": "Entities\\Bank.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:19:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:15:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-14T14:02:24.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contribution.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Contribution.cs",
+              "RelativeDocumentMoniker": "Entities\\Contribution.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\Lb_c#\\\u041A\u0443\u0440\u0441 2\\lb2\\353505_\u0425\u043E\u0440\u043E\u0448\u043A\u043E_Lab21\\lb2\\Entities\\Contribution.cs",
+              "RelativeToolTip": "Entities\\Contribution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:19:16.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

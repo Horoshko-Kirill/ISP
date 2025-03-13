@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>C:\Users\kiril\Desktop\Lb_c#\Курс 2\lb6\Хорошко_353505_Lab6</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Хорошко_353505_Lab6\Хорошко_353505_Lab6.csproj" />
+  </ItemGroup>
+
+</Project>
