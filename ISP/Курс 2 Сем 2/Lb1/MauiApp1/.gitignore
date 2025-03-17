@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+
+*.exe
+*.dll
+*.pdb
+
+
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+
+appsettings*.json
+

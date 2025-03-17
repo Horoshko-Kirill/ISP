@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.CalculatorPage"
+             Title="CalculatorPage">
+
+
+    <StackLayout VerticalOptions="FillAndExpand" Padding="10">
+
+
+        <Label 
+            x:Name="LableDisplay" 
+            Text="0" 
+            FontSize="150"
+            HorizontalOptions="FillAndExpand"
+            HorizontalTextAlignment="End"/>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+            <Button x:Name="ButtonMC" Text="MC" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonMCCliced"/>
+            <Button x:Name="ButtonMR" Text="MR" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonMRCliced"/>
+            <Button x:Name="ButtonMAdd" Text="M+" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonMAddCliced"/>
+            <Button x:Name="ButtonMDiff" Text="M-" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonMDiffCliced"/>
+            <Button x:Name="ButtonMSelect" Text="MS" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonMSelectCliced"/>
+        </StackLayout>
+
+        <Grid VerticalOptions="FillAndExpand">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+
+            <Button x:Name="ButtonProc" Text="%" Grid.Column="0" Grid.Row="0" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonProcCliced"/>
+            <Button x:Name="ButtonAbs" Text="|x|" Grid.Column="1" Grid.Row="0" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonAbsCliced"/>
+            <Button x:Name="ButtonMemory" Text="C" Grid.Column="2" Grid.Row="0" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonCCliced"/>
+            <Button x:Name="ButtonDelete" Text="Delete" Grid.Column="3" Grid.Row="0" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonDeleteCliced"/>
+            <Button x:Name="Button1" Text="1" Grid.Column="0" Grid.Row="4" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton1Cliced"/>
+            <Button x:Name="Button2" Text="2" Grid.Column="1" Grid.Row="4" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton2Cliced"/>
+            <Button x:Name="Button3" Text="3" Grid.Column="2" Grid.Row="4" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton3Cliced"/>
+            <Button x:Name="Button4" Text="4" Grid.Column="0" Grid.Row="3" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton4Cliced"/>
+            <Button x:Name="Button5" Text="5" Grid.Column="1" Grid.Row="3" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton5Cliced"/>
+            <Button x:Name="Button6" Text="6" Grid.Column="2" Grid.Row="3" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton6Cliced"/>
+            <Button x:Name="Button7" Text="7" Grid.Column="0" Grid.Row="2" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton7Cliced"/>
+            <Button x:Name="Button8" Text="8" Grid.Column="1" Grid.Row="2" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton8Cliced"/>
+            <Button x:Name="Button9" Text="9" Grid.Column="2" Grid.Row="2" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton9Cliced"/>
+            <Button x:Name="Button0" Text="0" Grid.Column="1" Grid.Row="5" BackgroundColor="Transparent" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButton0Cliced"/>
+            <Button x:Name="ButtonSign" Text="+/-" Grid.Column="0" Grid.Row="5" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonSignCliced"/>
+            <Button x:Name="ButtonPunct" Text="," Grid.Column="2" Grid.Row="5" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonPunctCliced"/>
+            <Button x:Name="ButtonEqual" Text="=" Grid.Column="3" Grid.Row="5" BackgroundColor="#FF4F00" TextColor="White" FontSize="50" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonEqualCliced"/>
+            <Button x:Name="ButtonOpposite" Text="1/x" Grid.Column="0" Grid.Row="1" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked ="OnButtonOppositeCliced"/>
+            <Button x:Name="ButtonPow" Text="x^2" Grid.Column="1" Grid.Row="1" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonPowCliced"/>
+            <Button x:Name="ButtonRoot" Text="X^(1/2)" Grid.Column="2" Grid.Row="1" BackgroundColor="Transparent" TextColor="#a0a0a0" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonRootCliced"/>
+            <Button x:Name="ButtonDevide" Text="/" Grid.Column="3" Grid.Row="1" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonDevCliced"/>
+            <Button x:Name="ButtonMultiply" Text="*" Grid.Column="3" Grid.Row="2" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonMultiplyCliced"/>
+            <Button x:Name="ButtonDiff" Text="-" Grid.Column="3" Grid.Row="3" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonDiffCliced"/>
+            <Button x:Name="ButtonMultiplySum" Text="+" Grid.Column="3" Grid.Row="4" BackgroundColor="Transparent" TextColor="#FF4F00" FontSize="30" Margin="5, 2, 5, 2" Pressed="OnButtonPress" Released="OnButtonReleased" Clicked="OnButtonSumCliced"/>
+
+
+        </Grid>
+
+    </StackLayout>
+
+
+</ContentPage>
