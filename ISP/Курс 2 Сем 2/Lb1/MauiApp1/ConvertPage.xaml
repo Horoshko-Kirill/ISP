@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.ConvertPage"
+             Title="ConvertPage">
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <Label Text="Дата курса:" FontSize="16"/>
+            <DatePicker x:Name="datePicker" DateSelected="OnDateSelected"/>
+
+            <Label Text="Сумма:" FontSize="16"/>
+            <Entry x:Name="amountEntry" Keyboard="Numeric" Placeholder="Введите сумму"/>
+
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="10">
+                <VerticalStackLayout>
+                    <Label Text="Из валюты:" FontSize="16"/>
+                    <Picker x:Name="fromCurrencyPicker" Title="Выберите валюту"/>
+                </VerticalStackLayout>
+
+                <VerticalStackLayout Grid.Column="1">
+                    <Label Text="В валюту:" FontSize="16"/>
+                    <Picker x:Name="toCurrencyPicker" Title="Выберите валюту"/>
+                </VerticalStackLayout>
+            </Grid>
+
+            <Button Text="Конвертировать" Clicked="OnConvertClicked"/>
+
+            <Frame Padding="15" CornerRadius="10" BackgroundColor="{DynamicResource SecondaryColor}">
+                <Label x:Name="resultLabel" FontSize="18" HorizontalOptions="Center"/>
+            </Frame>
+
+            <Label Text="Текущие курсы НБ РБ:" FontSize="16" FontAttributes="Bold"/>
+            <CollectionView x:Name="ratesCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10" ColumnDefinitions="*,*,*">
+                            <Label Text="{Binding Cur_Abbreviation}" FontSize="16"/>
+                            <Label Text="{Binding Cur_Scale, StringFormat='{0} ед.'}" Grid.Column="1"/>
+                            <Label Text="{Binding Cur_OfficialRate, StringFormat='{0:N4} BYN'}" Grid.Column="2"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

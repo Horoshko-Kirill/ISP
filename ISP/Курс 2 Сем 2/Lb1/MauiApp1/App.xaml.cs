@@ -2,13 +2,15 @@
 {
     public partial class App : Application
     {
-        public App()
+        public App(IDbService dbService)
         {
             InitializeComponent();
+
+            dbService.Init();
 
             MainPage = new AppShell();
         }
 
-      
+
     }
 }

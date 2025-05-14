@@ -20,4 +20,13 @@
         <ShellContent Title="ProgressBar" ContentTemplate="{DataTemplate local:ProgressBar}" />
     </FlyoutItem>
 
+
+    <FlyoutItem Title="Companies">
+        <ShellContent Title="Companies" ContentTemplate="{DataTemplate local:Companies}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="ConvertPage">
+        <ShellContent Title="ConvertPage" ContentTemplate="{DataTemplate local:ConvertPage}" />
+    </FlyoutItem>
+
 </Shell>
